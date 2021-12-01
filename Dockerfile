@@ -1,4 +1,4 @@
-FROM python3.8-slim-buster
+FROM python:3.8-slim-buster
 LABEL "maintainer"="Shashwat Kare <skare@cisco.com>"
 LABEL "version"=1.0
 LABEL "build-date"=$DT$
